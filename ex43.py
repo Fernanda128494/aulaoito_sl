@@ -4,7 +4,7 @@ def maior(a, b):
     else:
         return b
 num1=int(input("Digite um número inteiro "))
-num2=int(input("Digite outo número inteiro "))
+num2=int(input("Digite outro número inteiro "))
 num_maior=maior(num1,num2)
 print(f"O número {num_maior} é o maior")
     
